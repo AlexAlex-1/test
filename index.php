@@ -10,4 +10,4 @@ echo "DOD";
 }
 
 $dod = new pop;
-$dod->'dod';
+$dod->'dod'; 
